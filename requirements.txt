@@ -1,6 +1,5 @@
 django
 cgi-tools
-cgitb
-sys
+micropython-cgitb
 requests
 json
