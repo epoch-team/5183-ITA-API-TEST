@@ -1,1 +1,6 @@
 django
+cgi
+cgitb
+sys
+requests
+json
