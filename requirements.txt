@@ -2,4 +2,3 @@ django
 cgi-tools
 micropython-cgitb
 requests
-json
