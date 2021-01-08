@@ -24,6 +24,7 @@ WORKDIR /workspace/src
 #RUN django-admin startproject ita_api_test_prj . \
 #    && python3 manage.py startapp ita_api_test_app \
 #    && chmod -R 777 /workspace/src
+RUN chmod -R 777 /workspace/src
 
 EXPOSE 8000
 
